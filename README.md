@@ -2,11 +2,6 @@
 
 Este proyecto es una solución para la prueba técnica de frontend, construida con una pila tecnológica moderna que incluye **Vite, React, TypeScript y Tailwind CSS**. El objetivo es demostrar habilidades en la construcción de interfaces de usuario modulares, dinámicas y estilizadas de manera eficiente, siguiendo las mejores prácticas de desarrollo y colaboración.
 
-## 📸 Screenshot
-
-![Screenshot de la aplicación](./preview/screenshot.png)
-*(Recomendación: Agrega una captura de pantalla de tu aplicación finalizada en la raíz del repo y nómbrala `screenshot.png`)*
-
 ---
 
 ## 📄 El Desafío
