@@ -12,16 +12,6 @@ El objetivo era implementar una interfaz de usuario basada en una historia de us
 -   **Renderizado Dinámico:** Los widgets de datos debían ser capaces de renderizar contenido a partir de una lista (array) de datos.
 -   **Manejo de Estado de UI:** Implementar la lógica de navegación por pestañas en el widget de "Agregar dato de salud".
 
-<details>
-<summary><strong>Ver la Historia de Usuario completa</strong></summary>
-
-> **Como** un médico,
-> **Quiero** visualizar la información clave del paciente organizada en componentes (widgets) que cargan datos dinámicamente y ofrecen opciones de filtrado,
-> **Para** poder evaluar rápidamente el historial, el plan de tratamiento y los datos relevantes, y así tomar decisiones clínicas más eficientes y seguras.
->
-> *(Aquí puedes incluir los Criterios de Aceptación si lo deseas)*
-</details>
-
 ---
 
 ## 🛠️ Flujo de Trabajo y Colaboración (Git Workflow)
